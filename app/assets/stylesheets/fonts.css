@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'BeatTech';
+	src: url('fonts/BEATTECH.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BeatTech-Line';
+	src: url('fonts/BEATTECH-Line.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+  
+.font-beat-tech {
+	font-family: 'BeatTech', sans-serif;
+}
+
+.font-beat-tech-line {
+	font-family: 'BeatTech-Line', sans-serif;
+}
